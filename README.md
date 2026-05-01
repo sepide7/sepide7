@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @sepide7
-- 👀 I’m interested in learning and learning and learning 
-- 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on Large programming groups
-- 📫 you can contact me by email : sepide.khoshnood@gmail.com
-  
+### 👋 Hi, I’m Sepide
 
-<!---
-sepide7/sepide7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👀 I’m deeply interested in **Artificial Intelligence, Machine Learning, and Computer Vision**
+
+* 🧠 I love learning — and I’m constantly pushing myself to learn more, deeper, and better
+
+* 🌱 Currently working on **Deep Learning-based anomaly detection and classification systems**
+
+* 🔬 My recent work includes:
+
+  * Developing **U-Net based models** for surface defect detection (e.g., leather anomaly detection)
+  * Building **image classification systems** using architectures like *InceptionV3*, *MobileNetV3*, and transfer learning approaches
+  * Exploring **feature extraction, optimization techniques**, and performance improvement strategies
+  * Applying **Genetic Algorithms** for optimization and intelligent system design
+
+* 💻 Tech stack:
+
+  * Python (TensorFlow, Keras)
+  * Deep Learning & Computer Vision
+  * .NET Core & SQL Server (for real-world system integration)
+
+* 💞️ I’m open to collaborating on:
+
+  * AI/ML research projects
+  * Computer vision applications
+  * Real-world intelligent systems
+
+* 📫 How to reach me:
+  **[sepide.khoshnood@gmail.com](mailto:sepide.khoshnood@gmail.com)**
+
+---
+
+✨ *Always learning. Always building. Always improving.*
